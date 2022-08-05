@@ -1,0 +1,8 @@
+20220801	03:28:38	3620c884-d721-438e-a999-56162d1d65f4	GET	undefined	/register
+20220801	03:28:43	8563a51a-75de-4704-8985-667e7b8da2e6	POST	undefined	/register
+20220801	03:29:16	365db5c9-5b02-4352-b8fb-680de8b9fab5	POST	undefined	/register
+20220801	03:29:23	bad2d3d1-4b7a-43d4-a37a-c18062b1c44d	POST	undefined	/auth
+20220801	03:29:43	90e59f0d-2add-40db-90a0-87a57b7f2550	POST	undefined	/employees
+20220801	03:29:46	5313bcdc-eb7b-420f-babc-0dab1d248b43	POST	undefined	/employees
+20220801	03:29:47	947aad69-5cc7-4413-8d4e-649ec19b41e2	POST	undefined	/employees
+20220801	03:30:05	1b58f922-d5b5-4740-b72a-fb62e72bf367	POST	undefined	/users
